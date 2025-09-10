@@ -45,6 +45,15 @@ Select "From" and "To" units from dropdown menus
 
 Click Convert to instantly see the result
 
+## 📸 Screenshots
+
+### Console Program
+![Console Output](screenshots/console_output.png)
+
+### GUI Program
+![GUI Window](screenshots/gui_window_output.png)
+
+
 📂 Project Files
 ```bash
 SCT_SD_1/
