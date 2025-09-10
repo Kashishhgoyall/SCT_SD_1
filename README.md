@@ -53,7 +53,11 @@ SCT_SD_1/
 │-- README.md                 # Project documentation
 ```
 🌱 Skills Practiced
+
 -Java programming fundamentals
+
 -Exception handling & user input validation
+
 -GUI design with Swing
+
 -Basic Git & GitHub usage
